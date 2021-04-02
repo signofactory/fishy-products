@@ -6,7 +6,7 @@
 
 Fishy products has been adflow.ai stunt for April Fools 2021. It was first released on Product Hunt on the 25th of March 2021, in order to help marketers prepare for their own April Fools' joke. [See it live here](https://fishyproducts.adflow.ai).
 
-We are building adflow.ai in public. Make sure you come and say hi on Twitter 👋🏼
+We are building [adflow.ai](https://www.adflow.ai) in public. Make sure you come and say hi on Twitter 👋🏼
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/lorenzosigno.svg?style=social&label=%40lorenzosigno)](https://twitter.com/lorenzosigno) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/signorettif.svg?style=social&label=%40signorettif)](https://twitter.com/signorettif)
 
